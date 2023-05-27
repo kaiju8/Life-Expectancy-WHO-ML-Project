@@ -3,7 +3,7 @@
 The Life Expectancy (WHO) dataset is a dataset collected by WHO and is available on the kaggle website<br>
 The link for the same is <a href = "https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who"> here </a> 
 
-My notebook analysing and making a model for the above dataset is present at the link: <a href = "https://www.kaggle.com/kaiju8/life-expectancy-who-ml-project" > here </a>
+My notebook analysing and making a model for the above dataset is present at the link: <a href = "https://www.kaggle.com/kaiju8/life-expectancy-who" > here </a>
 
 This notebook has 'extensive' Cleaning of data, some Data Visualisation, Feature Analysis, Model Selection.<br>
 Finally we get a model with 99% training error and 95% test error
